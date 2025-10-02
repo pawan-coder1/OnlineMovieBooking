@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MovieBookingSystem\\MovieBooking.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\dtos\\createshowtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\dtos\\createshowtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\moviebooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\moviebooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\migrations\\20250928130336_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\migrations\\20250928130336_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\moviebooking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\moviebooking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\migrations\\20250928143224_addshowtimeandbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\migrations\\20250928143224_addshowtimeandbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|d:\\moviebookingsystem\\moviebooking.api\\moviebooking.api\\migrations\\20250928132555_adddescriptionandpostertomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337F7F-9D91-479D-8C0F-3A9164BCA29F}|MovieBooking.Api\\MovieBooking.Api.csproj|solutionrelative:moviebooking.api\\migrations\\20250928132555_adddescriptionandpostertomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1681389190:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:11:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:22:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Showtime.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Showtime.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Models\\Showtime.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Showtime.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Models\\Showtime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:11:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\DTOs\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\DTOs\\CreateBookingDto.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\DTOs\\CreateBookingDto.cs",
+              "RelativeToolTip": "MovieBooking.Api\\DTOs\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:27:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Models\\Booking.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Booking.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:57:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Models\\Movie.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:56:56.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Program.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Program.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:06:51.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250928143224_AddShowtimeAndBooking.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928143224_AddShowtimeAndBooking.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Migrations\\20250928143224_AddShowtimeAndBooking.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928143224_AddShowtimeAndBooking.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Migrations\\20250928143224_AddShowtimeAndBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:32:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:23:12.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:20:52.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateShowtimeDto.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\DTOs\\CreateShowtimeDto.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\DTOs\\CreateShowtimeDto.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\DTOs\\CreateShowtimeDto.cs",
+              "RelativeToolTip": "MovieBooking.Api\\DTOs\\CreateShowtimeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:26:08.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieBooking.Api.csproj",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\MovieBooking.Api.csproj",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\MovieBooking.Api.csproj",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\MovieBooking.Api.csproj",
+              "RelativeToolTip": "MovieBooking.Api\\MovieBooking.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T12:56:21.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:58:46.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:02:59.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:06:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250928132555_AddDescriptionAndPosterToMovie.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928132555_AddDescriptionAndPosterToMovie.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Migrations\\20250928132555_AddDescriptionAndPosterToMovie.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928132555_AddDescriptionAndPosterToMovie.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Migrations\\20250928132555_AddDescriptionAndPosterToMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:25:55.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250928130336_InitialCreate.cs",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928130336_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\Migrations\\20250928130336_InitialCreate.cs",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\Migrations\\20250928130336_InitialCreate.cs",
+              "RelativeToolTip": "MovieBooking.Api\\Migrations\\20250928130336_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:03:37.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\appsettings.json",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\appsettings.json",
+              "RelativeToolTip": "MovieBooking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T12:59:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieBooking.Api",
+              "DocumentMoniker": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\MovieBooking.Api.csproj",
+              "RelativeDocumentMoniker": "MovieBooking.Api\\MovieBooking.Api.csproj",
+              "ToolTip": "D:\\MovieBookingSystem\\MovieBooking.Api\\MovieBooking.Api\\MovieBooking.Api.csproj",
+              "RelativeToolTip": "MovieBooking.Api\\MovieBooking.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T12:56:08.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
